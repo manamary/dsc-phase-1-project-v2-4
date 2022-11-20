@@ -74,7 +74,8 @@ to present information about the data set.
 
 ### 1. What genres have the highest ratings?
 
-![Screenshot](GENRE RATINGS.png)
+
+<img src = "GENRE RATINGS.png">
 Most genres are rated R while least are NR. If most movies are 
 rated R then this means that the audience is most probably 
 aged 2 - 12 years. It could also conclude that as a movie studio, 
@@ -83,21 +84,24 @@ target a certain audience.
 
 ### 2. What genres have the highest grossings?
 
-![Screenshot](GENRES HIGHEST GROSSINGS.png)
+
+<img src = "GENRES HIGHEST GROSSINGS.png">
 Drama|Mystery and Suspense made the highest total gross.
 This enlightens a movie studio on the kind of movie genre they 
 should invest in to bring income to the movie studio.
 
 ### 3. Which is the most successful studio with a high number of gross?
 
-![Screenshot](SUCCESSFUL HIGH GROSSING STUDIO.png)
+
+<img src = "SUCCESSFUL HIGH GROSSING STUDIO.png">
 From this output we can tell in what order who will be the main 
 competitors to Microsoft Movie Studio in the movie industry empire 
 starting with WB being the first.
 
 ### 4. What genre is popular?
 
-![Screenshot](GENRE POPULARITY.png)
+
+<img src = "GENRE POPULARITY.png">
 Clearly, we can see that Action and Adventure|Mystery and Suspense 
 trends more in box office. With that info, the Microsoft Movie Studio 
 can take action on which films to make or begin with in order to be 
@@ -105,7 +109,8 @@ on top and make crazy profits at the same time.
 
 ### 5. Who are the top directors from the standpoint of movies profitability?
 
-![Screenshot](TOP DIRECTOR.png)
+
+<img src = "TOP DIRECTOR.png">
 We notice that Clint Eastwood has the highest number of total gross 
 income meaning his films are selling and are loved and followed up 
 by a big audience. This means that the Movie Studio can hire Clint 
@@ -114,7 +119,8 @@ to the new company.
 
 ### 6. Who are the top screenwriters from the standpoint of movies profitability?
 
-![Screenshot](TOP SCREENWRITER.png)
+
+<img src = "TOP SCREENWRITER.png">
 We notice that Brian Helgeland has the highest number of total 
 gross income meaning his skills on script writing is selling within 
 the movie industry. This means that the Movie Studio can hire Brian 
@@ -125,9 +131,11 @@ can make triple in profits.
 
 ### 7. Correlation between production budget vs profit vs movie?
 
-![Screenshot](PRODUCTION BUDGET VS MOVIE.png)
 
-![Screenshot](PROFIT VS MOVIE.png)
+<img src = "PRODUCTION BUDGET VS MOVIE.png">
+
+
+<img src = "PROFIT VS MOVIE.png">
 From the above graphs, you will notice that movies with high a 
 production budget end up being movies with the highest profits. 
 
